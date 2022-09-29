@@ -28,11 +28,11 @@ cout << "Hello World" << endl;
 ```
 
 ## ***My Goals for College***
--[x] Join Clubs
--[x] Make Great Friends
--[] Program My Own Games
--[x] Have a Performance at School
--[x] Have Fun :)
+- [x] Join Clubs
+- [x] Make Great Friends
+- [] Program My Own Games
+- [x] Have a Performance at School
+- [x] Have Fun :)
 
 
 
