@@ -22,9 +22,9 @@
 - ### CSS, HTML, ~JavaScript~(not really)
 
 ## ***My Top 3 Interests***
-* ### Guitar
-* ### Video Games
-* ### Skateboarding
+1. ### Guitar
+2. ### Video Games
+3. ### Skateboarding
 
 ## ***My First Line of Code***
 ```
