@@ -7,6 +7,10 @@
 ### *I am a 22-year-old student studying Mathematics-Computer Science at the University of California, San Diego. I see programming as a tool to solve different kinds of problems we have in real life, an extension of humans that provides the ability to do complex math and algorithm, a magic that makes imaginations become reality, an entertainment I can play in my spare time.*
 ### [My Portfolio](https://benjaminnhuang.github.io/MyPortfolio/)
 
+## ***Dogs or Cats?***
+# ***Both!!***
+![Dog and Cat](https://pixabay.com/get/g45ed37c4ff540e5912a57c34eb87396a87620221ab773e81642ecc1bfb4d38dd2c9cbf13eeda7f505f3eee10f04bf06a3e4ca15ec811c51b36304f3d5bbd1919c8ecc3f1e2301342b7c7b6b77ea883b1_640.png)
+
 ## ***My Inspiration***
 ![Steve Jobs](https://pixabay.com/get/g05ad664b39fafbf95b24f8a1f690cc1269225d4d84a0efb22130b3b889630584bde2c14d6dcffb2c7aae62028d18621ddc586ae42746ba78c779d63668c45310ee47aa89667743fcb2d5212f0abf41c9_640.png)
 > Your time is limited, so don’t waste it living someone else’s life.
@@ -30,8 +34,8 @@ cout << "Hello World" << endl;
 ## ***My Goals for College***
 - [x] Join Clubs
 - [x] Make Great Friends
-- [] Program My Own Games
-- [x] Have a Performance at School
+- [ ] Program My Own Games
+- [ ] Have a Performance at School
 - [x] Have Fun :)
 
 
